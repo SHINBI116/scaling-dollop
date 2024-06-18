@@ -1,3 +1,0 @@
-Age : 25
-Hello, world~!
-한글~!!
